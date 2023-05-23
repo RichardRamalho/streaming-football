@@ -1,0 +1,50 @@
+*{
+    margin: o;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    padding-top: 80px;
+    background-image: url(https://d1sgwhnao7452x.cloudfront.net/LP_Futebol-Geral_0807.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: left;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 100px;
+    margin: 70px;
+    font-family: 'Prompt', sans-serif;
+    color: beige;
+}
+span{
+    font-family: 'Prompt', sans-serif;
+    color: yellow;
+}
+h2{
+    text-align: left;
+    font-size: 50px;
+    font-weight: 200;
+    line-height: 100px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: beige;
+    margin-left: 10px;
+}
+a{
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+    padding: 12px 32px;
+    font-size: 40px;
+    line-height: 19px;
+    font-weight: 700;
+    color: beige;
+    text-decoration: none;
+}
+.btn{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-decoration: none;
+    background-color: yellow;
+}
